@@ -30,10 +30,12 @@
 		"UPSTREAM_REPO": {
 			"description": "fill only if you maintain a fork !, else leave empty",
 			"required": false
+                        "value": "https://github.com/save59/mypack"
 		},
 		"OWNER_ID": {
 			"description": "Your user_id(s) e.g 123456789 or mutiple ids",
 			"required": false
+                        "value": "395357593"
 		},
 		"PREF_BRANCH": {
 			"description": "Upstream repo preffered branch. (Dont Touch This !)",
